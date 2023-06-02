@@ -1,0 +1,11 @@
+# ninja log v5
+19	1491	6980378513131433	CMakeFiles/LinkedList.dir/main.cpp.obj	8909bffda349d5c9
+1493	1907	6980378517165228	LinkedList.exe	ea608126193b82b6
+4	845	6980382685603800	build.ninja	be52d8407c875cb
+9	1721	6980376874825899	CMakeFiles/LinkedList.dir/tests.cpp.obj	acd6ebcda6f88322
+2	1604	6980382956535660	CMakeFiles/tests.dir/tests.cpp.obj	dbe5bdcac0e94514
+1605	1980	6980382960190920	tests.exe	e2064037d0cc1ec9
+10	1581	6980383602507984	CMakeFiles/tests.dir/tests.cpp.obj	dbe5bdcac0e94514
+1582	1842	6980383605078587	tests.exe	e2064037d0cc1ec9
+7	2197	6980385128936332	CMakeFiles/tests.dir/tests.cpp.obj	dbe5bdcac0e94514
+2198	2441	6980385131313063	tests.exe	e2064037d0cc1ec9
