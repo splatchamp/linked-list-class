@@ -1,1 +1,1 @@
-Custom linked list class for C++. I did not create the LinkedListInterface file; it was only used for inheritance by the LinkedList class.
+Custom linked list class for C++.
